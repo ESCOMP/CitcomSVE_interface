@@ -1,0 +1,49 @@
+[submodule "cime"]
+	path = cime
+	url = https://github.com/ESMCI/cime
+fxtag = cime6.1.56
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/ESMCI/cime
+
+[submodule "ccs_config"]
+	path = ccs_config
+	url = https://github.com/ESMCI/ccs_config_cesm.git
+fxtag = ccs_config_cesm1.0.21
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/ESMCI/ccs_config_cesm.git
+
+[submodule "cmeps"]
+	path = components/cmeps
+	url = https://github.com/ESCOMP/CMEPS.git
+fxtag = cmeps1.0.32
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/ESCOMP/CMEPS.git
+
+[submodule "cdeps"]
+	path = components/cdeps
+	url = https://github.com/ESCOMP/CDEPS.git
+fxtag = cdeps1.0.61
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/ESCOMP/CDEPS.git
+
+[submodule "share"]
+	path = share
+	url = https://github.com/ESCOMP/CESM_share
+fxtag = share1.1.6
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/ESCOMP/CESM_share
+
+[submodule "parallelio"]
+	path = libraries/parallelio
+	url = https://github.com/NCAR/ParallelIO
+fxtag = pio2_6_3
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/NCAR/ParallelIO
+
+[submodule "CitcomSVE"]
+	path = components/citcomsve
+	url = https://github.com/shjzhong/CitcomSVE-3.0.git
+fxtag = 0f2292fad5ddcb7a313c0f8f442b48eee384c27e
+fxrequired = ToplevelRequired
+fxDONOTUSEurl = https://github.com/shjzhong/CitcomSVE-3.0.git
+
