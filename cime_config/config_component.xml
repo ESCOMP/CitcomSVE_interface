@@ -2,10 +2,10 @@
 
 <entry_id version="3.0">
 
-  <description modifier_mode="+">
-    <desc gia="CITCOM">citcom:</desc>
+  <description modifier_mode="?">
+    <desc gia="CITCOM">citcom</desc>
   </description>
-
+  
   <entry id="COMP_GIA"> 
     <type>char</type>
     <valid_values>citcom</valid_values>
