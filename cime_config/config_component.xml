@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+
+<entry_id version="3.0">
+
+  <description modifier_mode="+">
+    <desc gia="CITCOM">citcom:</desc>
+  </description>
+
+  <entry id="COMP_GIA"> 
+    <type>char</type>
+    <valid_values>citcom</valid_values>
+    <default_value>citcom</default_value>
+    <group>case_comp</group>
+    <file>env_case.xml</file>
+    <desc>Name of solid earth component</desc>
+  </entry>
+  
+</entry_id>
