@@ -7,17 +7,17 @@ fxDONOTUSEurl = https://github.com/katetc/cime
 
 [submodule "ccs_config"]
 	path = ccs_config
-	url = https://github.com/ESMCI/ccs_config_cesm.git
-fxtag = ccs_config_cesm1.0.21
+	url = https://github.com/katetc/ccs_config_cesm.git
+fxtag = katetc/GIA_updates
 fxrequired = ToplevelRequired
 fxDONOTUSEurl = https://github.com/ESMCI/ccs_config_cesm.git
 
 [submodule "cmeps"]
 	path = components/cmeps
-	url = https://github.com/ESCOMP/CMEPS.git
-fxtag = cmeps1.0.32
+	url = https://github.com/katetc/CMEPS.git
+fxtag = katetc/gia_updates_2025
 fxrequired = ToplevelRequired
-fxDONOTUSEurl = https://github.com/ESCOMP/CMEPS.git
+fxDONOTUSEurl = https://github.com/katetc/CMEPS.git
 
 [submodule "cdeps"]
 	path = components/cdeps
