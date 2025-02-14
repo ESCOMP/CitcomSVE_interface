@@ -1,0 +1,18 @@
+# ignore svn directories
+**/.svn/**
+.svn/
+
+# binary files
+*.nc
+
+# editor files
+*.swp
+*~
+
+# build output
+*.o
+*.mod
+core.*
+*.gz
+*.log !run.log
+*.pyc
